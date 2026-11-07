@@ -1,0 +1,4 @@
+Case ID,Date,Store ID,Product ID,Synthetic Opening Stock,Synthetic Purchases Received,Synthetic Customer Returns Restocked,Source Units Sold,Synthetic Supplier Returns,Synthetic Actual Closing Stock,Source Discount (%)
+RG-0031,2026-10-02,S002,P0018,80,30,1,5,3,109,12
+RG-0052,2026-10-03,S005,P0011,40,20,0,5,1,63,22
+RG-0078,2026-10-04,S001,P0009,100,50,2,20,2,138,5
