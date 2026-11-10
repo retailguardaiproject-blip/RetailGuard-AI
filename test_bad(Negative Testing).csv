@@ -1,4 +1,4 @@
-record_id,store_id,product_id,period_end,Synthetic Opening Stock,Synthetic Purchases Received,Synthetic Customer Returns Restocked,Source Units Sold,Synthetic Supplier Returns,Synthetic Actual Closing Stock,Source Discount (%),Test Note / Error Type
+Case_ID,store_id,product_id,period_end,Synthetic Opening Stock,Synthetic Purchases Received,Synthetic Customer Returns Restocked,Source Units Sold,Synthetic Supplier Returns,Synthetic Actual Closing Stock,Source Discount (%),Test Note / Error Type
 BAD-001,Store_S1,PROD-01,2026-10-31,-50,20,0,10,0,15,10,Negative stock (-50) invalid inventory rule
 BAD-002,Store_S2,PROD-02,2026-10-31,100,abc,0,20,0,80,15,Non-numeric string ('abc') in numeric field
 BAD-003,Store_S3,PROD-03,2026-10-31,100,50,0,10,0,,20,Missing required field (blank Actual Closing Stock)
